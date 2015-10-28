@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="mydb.js"></script>
+    <script type="application/javascript">
+        function init() {
+            todonamespace.webdb.open();
+            todonamespace.webdb.createTable();
+            todonamespace.webdb.getAllTodoItems(loadTodoItems);
+        }
+        function addTodo() {
+            var todo = document.getElementById("todo");
+            todonamespace.webdb.addTodo(todo.value);
+            todo.value = "";
+        }
+    </script>
+</head>
+<body onload="init();">
+Web Databases are new in HTML5. Web Databases are hosted and persisted inside a user's browser. By allowing developers to create applications with rich query abilities it is envisioned that a new breed of web applications will emerge that have the ability to work online and off-line.
+<br>
+Todo : <input type="text" id="todo">
+<button onclick="addTodo()">Add</button>
+<br>
+<table id="todoItems">
+
+</table>
+</body>
+</html>
