@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <script>
+        $(function() {
+            $( "#dob" ).datepicker();
+        });
+        $(function() {
+            var availableTags = [
+                "ActionScript",
+                "AppleScript",
+                "Asp",
+                "BASIC",
+                "C",
+                "C++",
+                "Clojure",
+                "COBOL",
+                "ColdFusion",
+                "Erlang",
+                "Fortran",
+                "Groovy",
+                "Haskell",
+                "Java",
+                "JavaScript",
+                "Lisp",
+                "Perl",
+                "PHP",
+                "Python",
+                "Ruby",
+                "Scala",
+                "Scheme"
+            ];
+            $( "#tags" ).autocomplete({
+                source: availableTags
+            });
+        });
+    </script>
+</head>
+<body>
+<label>Date: </label>
+<input type="text"  id="dob" />
+<br>
+<label>Select Range:</label>
+<input type="range" id="range" min="1" max="50" value="10" onchange="outputId.value=value" >
+<output id="outputId">10</output>
+<br>
+<label>Number Type:</label>
+<input type="number" id="number" min="1" max="5">
+<br>
+<label >Select Course: </label>
+<input id="tags">
+</body>
+</html>

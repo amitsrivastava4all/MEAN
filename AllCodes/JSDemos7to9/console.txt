@@ -1,0 +1,80 @@
+var object = {};
+undefined
+typeof object;
+"object"
+object;
+Object {}
+object.id=1001;
+1001
+object;
+Object {id: 1001}
+object.name='Ram';
+"Ram"
+object;
+Object {id: 1001, name: "Ram"}
+delete object.id;
+true
+object;
+Object {name: "Ram"}
+var x ;
+undefined
+x;
+undefined
+typeof x;
+"undefined"
+x= 100;
+100
+typeof x;
+"number"
+function Employee(id,name){
+this.id = id;
+this.name = name;
+}
+undefined
+typeof Employee;
+"function"
+var ram = new Employee(1001,'Ram');
+
+
+undefined
+ram;
+Employee {id: 1001, name: "Ram"}
+object;
+Object {name: "Ram"}
+Employee.prototype;
+Employee {}
+console.dir(Employee.prototype);
+VM791:2 Employeeconstructor: function Employee(id,name){__proto__: Object
+undefined
+function disp(){
+}
+undefined
+disp.prototype;
+disp {}
+Employee.prototype.bonus=0;
+0
+console.dir(Employee.prototype);
+VM870:2 Employeebonus: 0constructor: function Employee(id,name){__proto__: Object
+undefined
+ram;
+Employee {id: 1001, name: "Ram", bonus: 0}
+var shyam = new Employee(1002,'Shyam');
+undefined
+ram;
+Employee {id: 1001, name: "Ram", bonus: 0}
+shyam;
+Employee {id: 1002, name: "Shyam", bonus: 0}
+shyam.bonus=9000;
+9000
+ram.bonus=8888;
+8888
+ram;
+Employee {id: 1001, name: "Ram", bonus: 8888}
+shyam;
+Employee {id: 1002, name: "Shyam", bonus: 9000}
+ram.pf = 999;
+999
+ram;
+Employee {id: 1001, name: "Ram", bonus: 8888, pf: 999}
+shyam;
+Employee {id: 1002, name: "Shyam", bonus: 9000}

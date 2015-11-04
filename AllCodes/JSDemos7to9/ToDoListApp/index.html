@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="model.js"></script>
+    <script src="controller.js"></script>
+    <style>
+        .completed{
+            color: green;
+            text-decoration: line-through;
+            text-line-through-color: red;
+            font-style: italic;
+        }
+        li{
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+<fieldset>
+    <legend>TodoList</legend>
+    <table>
+        <tr>
+            <td>TaskName</td>
+            <td><input type="text"  id="taskName"/></td>
+        </tr>
+        <tr>
+            <td>TaskDesc</td>
+            <td><input type="text"  id="taskDesc"/></td>
+        </tr>
+        <tr>
+            <td><button id="addTask">Add Task</button></td>
+            <td><button id="savetask">Save Task</button></td>
+        </tr>
+    </table>
+</fieldset>
+<fieldset>
+    <legend>ToLists</legend>
+    <ul>
+
+    </ul>
+</fieldset>
+</body>
+</html>
