@@ -1,0 +1,39 @@
+Node.js was invented in 2009 by Ryan Dahl and other developers working at Joyent.[19] Node.js was created and first published for Linux use in 2009. Its development and maintenance was led by Dahl and sponsored by Joyent, the firm where Dahl worked.[20]
+Dahl was inspired to create Node.js after seeing a file upload progress bar on Flickr. The browser did not know how much of the file had been uploaded and had to query the web server. Dahl desired an easier way.[21]
+The project was demonstrated at the inaugural European JSConf on November 8, 2009.[22][23][24] Dahl presented Node.js, which combined Google's V8 JavaScript engine, an event loop, and a low-level I/O API.[19] The project received a standing ovation.[25]
+In 2011, a package manager was introduced for Node.js library, called npm. The package manager allows publishing and sharing of open-source Node.js libraries by the community, and is designed to simplify installation, updating and uninstallation of libraries.[19]
+In June 2011, Microsoft and Joyent implemented a native Windows version of Node.js.[26] The first Node.js build to support Windows was released in July 2011.
+In January 2012, Dahl stepped aside, promoting coworker and npm creator Isaac Schlueter to manage the project.[27] In January 2014, Schlueter announced Timothy J. Fontaine would be the new project lead.[28]
+In December 2014, Fedor Indutny started io.js, a fork of Node.js. Due to internal conflict over Joyent's governance, io.js was created as an open governance alternative with a separate technical committee.[29]
+In February 2015, the intent to form a neutral Node.js Foundation was announced. By June 2015, the Node.js and io.js communities voted to work together under the Node.js Foundation
+
+
+Node.js was invented in 2009 by Ryan Dahl and other developers working at Joyent.[19] Node.js was created and first published for Linux use in 2009. Its development and maintenance was led by Dahl and sponsored by Joyent, the firm where Dahl worked.[20]
+Dahl was inspired to create Node.js after seeing a file upload progress bar on Flickr. The browser did not know how much of the file had been uploaded and had to query the web server. Dahl desired an easier way.[21]
+The project was demonstrated at the inaugural European JSConf on November 8, 2009.[22][23][24] Dahl presented Node.js, which combined Google's V8 JavaScript engine, an event loop, and a low-level I/O API.[19] The project received a standing ovation.[25]
+In 2011, a package manager was introduced for Node.js library, called npm. The package manager allows publishing and sharing of open-source Node.js libraries by the community, and is designed to simplify installation, updating and uninstallation of libraries.[19]
+In June 2011, Microsoft and Joyent implemented a native Windows version of Node.js.[26] The first Node.js build to support Windows was released in July 2011.
+In January 2012, Dahl stepped aside, promoting coworker and npm creator Isaac Schlueter to manage the project.[27] In January 2014, Schlueter announced Timothy J. Fontaine would be the new project lead.[28]
+In December 2014, Fedor Indutny started io.js, a fork of Node.js. Due to internal conflict over Joyent's governance, io.js was created as an open governance alternative with a separate technical committee.[29]
+In February 2015, the intent to form a neutral Node.js Foundation was announced. By June 2015, the Node.js and io.js communities voted to work together under the Node.js Foundation
+
+
+Node.js was invented in 2009 by Ryan Dahl and other developers working at Joyent.[19] Node.js was created and first published for Linux use in 2009. Its development and maintenance was led by Dahl and sponsored by Joyent, the firm where Dahl worked.[20]
+Dahl was inspired to create Node.js after seeing a file upload progress bar on Flickr. The browser did not know how much of the file had been uploaded and had to query the web server. Dahl desired an easier way.[21]
+The project was demonstrated at the inaugural European JSConf on November 8, 2009.[22][23][24] Dahl presented Node.js, which combined Google's V8 JavaScript engine, an event loop, and a low-level I/O API.[19] The project received a standing ovation.[25]
+In 2011, a package manager was introduced for Node.js library, called npm. The package manager allows publishing and sharing of open-source Node.js libraries by the community, and is designed to simplify installation, updating and uninstallation of libraries.[19]
+In June 2011, Microsoft and Joyent implemented a native Windows version of Node.js.[26] The first Node.js build to support Windows was released in July 2011.
+In January 2012, Dahl stepped aside, promoting coworker and npm creator Isaac Schlueter to manage the project.[27] In January 2014, Schlueter announced Timothy J. Fontaine would be the new project lead.[28]
+In December 2014, Fedor Indutny started io.js, a fork of Node.js. Due to internal conflict over Joyent's governance, io.js was created as an open governance alternative with a separate technical committee.[29]
+In February 2015, the intent to form a neutral Node.js Foundation was announced. By June 2015, the Node.js and io.js communities voted to work together under the Node.js Foundation
+
+
+
+Node.js was invented in 2009 by Ryan Dahl and other developers working at Joyent.[19] Node.js was created and first published for Linux use in 2009. Its development and maintenance was led by Dahl and sponsored by Joyent, the firm where Dahl worked.[20]
+Dahl was inspired to create Node.js after seeing a file upload progress bar on Flickr. The browser did not know how much of the file had been uploaded and had to query the web server. Dahl desired an easier way.[21]
+The project was demonstrated at the inaugural European JSConf on November 8, 2009.[22][23][24] Dahl presented Node.js, which combined Google's V8 JavaScript engine, an event loop, and a low-level I/O API.[19] The project received a standing ovation.[25]
+In 2011, a package manager was introduced for Node.js library, called npm. The package manager allows publishing and sharing of open-source Node.js libraries by the community, and is designed to simplify installation, updating and uninstallation of libraries.[19]
+In June 2011, Microsoft and Joyent implemented a native Windows version of Node.js.[26] The first Node.js build to support Windows was released in July 2011.
+In January 2012, Dahl stepped aside, promoting coworker and npm creator Isaac Schlueter to manage the project.[27] In January 2014, Schlueter announced Timothy J. Fontaine would be the new project lead.[28]
+In December 2014, Fedor Indutny started io.js, a fork of Node.js. Due to internal conflict over Joyent's governance, io.js was created as an open governance alternative with a separate technical committee.[29]
+In February 2015, the intent to form a neutral Node.js Foundation was announced. By June 2015, the Node.js and io.js communities voted to work together under the Node.js Foundation
