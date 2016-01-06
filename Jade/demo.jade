@@ -1,0 +1,20 @@
+doctype html
+html
+   head
+      title #{pageTitle}
+   body
+      div
+         //this is comment in jade
+      each item in ['amit', 'ram', 'shyam']
+         li= item
+
+      - var name = "<b>Amit</b>"
+      if name == "Amit"
+         p Welcome #{name} Or =name  Or !{name}
+      else
+         p Hello #{name} Or =name  Or !{name}
+   each tag in tags
+      li= tag.price
+      img(src=tag.coursename)
+
+
